@@ -1,0 +1,21 @@
+#section5{
+    border: 2px solid black;
+    height: 420px;
+    background-image: url(./bubbles-dktp.svg),linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));;;
+}
+#section5 h1{
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    font-size: 70px;
+}
+#section5 button{
+    padding: 10px;
+    width: 170px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-weight: bolder;
+    margin-left: 600px;
+    
+}

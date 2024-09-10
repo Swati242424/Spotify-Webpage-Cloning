@@ -1,0 +1,96 @@
+#section2{
+    /* border: 2px solid black; */
+    height: 500px;
+}
+#section2 h2{
+    /* border: 2px solid black; */
+    height: 50px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 35px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+#logo1{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 280px;
+    margin-top: 80px;
+    margin-left: 110px;
+}
+#videologo{
+    /* border: 2px solid black; */
+    height: 175px;
+    background-image: url(./ab671c3d0000f430678067184805befd38aa0f57.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#logo1 h3{
+    text-align: center;
+}
+#logo1 p{
+    text-align: center;
+}
+#logo2{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 280px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#playlistlogo{
+    /* border: 2px solid black; */
+    height: 175px;
+    background-image: url(./ab671c3d0000f430a6f822749d5c25c32ee31d66.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#logo2 h3{
+    text-align: center;
+}
+#logo2 p{
+    text-align: center;
+}
+#logo3{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 280px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#likelogo{
+    /* border: 2px solid black; */
+    height: 175px;
+    background-image: url(./ab671c3d0000f430eb43023b5332389f5094530d.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#logo3 h3{
+    text-align: center;
+}
+#logo3 p{
+    text-align: center;
+}
+#logo4{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 280px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#datalogo{
+    /* border: 2px solid black; */
+    height: 175px;
+    background-image: url(./ab671c3d0000f4309430062bc28461dc8fbde6bc.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#logo4 h3{
+    text-align: center;
+}
+#logo4 p{
+    text-align: center;
+}

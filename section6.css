@@ -1,0 +1,61 @@
+#section6{
+    border: 2px solid black;
+    height: 450px;
+    display: flex;
+    background-color: black;
+}
+#section6 svg{
+    height: 2.5em;
+    margin-top: 80px;
+    margin-left: 120px;
+    fill: white;
+}
+#company{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 110px;
+}
+#communities{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    margin-top: 110px;
+}
+#usefullinks{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    margin-top: 110px;
+}
+#spotifyplans{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    margin-top: 110px;
+}
+#section6 div h5{
+    color: rgb(58, 62, 62);
+}
+#section6 div h4 a{
+    color: black;
+    text-decoration: none;
+    color: white;
+}
+#section6 div h4 a:hover{
+    color: green;
+}
+#alllogo{
+    /* border: 2px solid red; */
+    height: 50px;
+    width: 300px;
+    margin-top: 120px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+}
+#alllogo img{
+    height: 2.5em;
+    margin: 30px;
+}
